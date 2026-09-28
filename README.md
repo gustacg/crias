@@ -1,6 +1,6 @@
 # Crias
 
-Crias é um aplicativo de hábitos e metas em grupo com gamificação no estilo de um jogo de RPG. A pessoa cria rotinas, entra em grupos, faz o check in do que cumpriu no dia e ganha ouro, vida e ofensiva (dias seguidos). Tem loja de personagens, baú de prêmios, ranking semanal do grupo e feed com foto de cada check in.
+CRIAS é um aplicativo de hábitos e metas em grupo com gamificação no estilo de um jogo de RPG. A pessoa cria rotinas, entra em grupos, faz o check in do que cumpriu no dia e ganha ouro, vida e ofensiva (dias seguidos). Tem loja de personagens, baú de prêmios, ranking semanal do grupo e feed com foto de cada check in.
 
 Ele roda no navegador do celular e pode ser instalado na tela de início como um aplicativo comum (PWA). As notificações push são o coração do produto: lembram a pessoa na hora certa e o check in acontece em dois toques, inclusive direto pela notificação.
 
